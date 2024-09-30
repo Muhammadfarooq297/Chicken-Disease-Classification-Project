@@ -7,6 +7,8 @@
 ## 🎯 Problem Statement  
 The goal of this project was to develop an image classification model to **detect coccidiosis in chickens** based on fecal images. Coccidiosis is a significant health issue in poultry farming, and early detection can help reduce mortality rates by enabling timely intervention.
 
+![Coccidiosis in Chickens](frontend.PNG)  <!-- Replace with the path to your image -->
+
 ---
 
 ## 🚀 Key Contributions
@@ -72,40 +74,6 @@ The goal of this project was to develop an image classification model to **detec
 
 ---
 
-## 📁 Project Structure
-
-The project is organized into the following structure:
-
-- **cnnClassifier/**
-  - **.github/**
-    - **workflows/**
-      - `.gitkeep`
-  - **src/**
-    - **cnnClassifier/**
-      - `__init__.py`
-      - **components/**
-        - `__init__.py`
-      - **utils/**
-        - `__init__.py`
-      - **config/**
-        - `__init__.py`
-        - `configuration.py`
-      - **pipeline/**
-        - `__init__.py`
-      - **entity/**
-        - `__init__.py`
-      - **constants/**
-        - `__init__.py`
-  - **config/**
-    - `config.yaml`
-  - `dvc.yaml`
-  - `params.yaml`
-  - `requirements.txt`
-  - `setup.py`
-  - **research/**
-    - `trials.ipynb`
-  - **templates/**
-    - `index.html`
 
 ## Workflows
 
