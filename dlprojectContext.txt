@@ -1,0 +1,7 @@
+Chickens affected with coccidiosis(which may death of chickens)
+i have collected chicken fecal images (both for healthy and unhealthy)
+image classification model
+i will be using tranfer learning(vgg 16 model) using pretrained model(Instead of training from scratch i want to train my custom layer)(Image classification model is trained on image net dataset) from keras application
+and on top of it i will try to train my custom data(fecal data)
+It will try to classify whether this chicken has been affected with this coccidiosis disease 
+or not by chicken fecal images
